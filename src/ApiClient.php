@@ -19,6 +19,8 @@ class ApiClient
      */
     private $client;
 
+    private $go;
+
     /**
      * @var Session
      */
